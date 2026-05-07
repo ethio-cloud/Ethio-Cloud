@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi, I'm Kalkidan👋
+
+Aspiring AWS Cloud/DevOps Engineer
+
+Skills
+. AWS: EC2, S3, IAM, VPC, CloudFront
+. Linux: Basic administration, SSH permissions
+. Networking: DNS, HTTP/HTTPS, Load Balancing
+. Tools: Git, Docker(basic), CI/CD (GitHub Actions)
+
+Projects
+.
+.
+.
+
+Certification
+. AWS Certified Solutions Architect - Associate (in Progress)
+
+Contact
+Linkedin: 
+
 
 <!--
 **ethio-cloud/Ethio-Cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
