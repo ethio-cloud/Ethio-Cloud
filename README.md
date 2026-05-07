@@ -3,15 +3,15 @@
 Aspiring AWS Cloud/DevOps Engineer
 
 Skills  
-. AWS: EC2, S3, IAM, VPC, CloudFront
-. Linux: Basic administration, SSH permissions
-. Networking: DNS, HTTP/HTTPS, Load Balancing
-. Tools: Git, Docker(basic), CI/CD (GitHub Actions)
+. AWS: EC2, S3, IAM, VPC, CloudFront  
+. Linux: Basic administration, SSH permissions  
+. Networking: DNS, HTTP/HTTPS, Load Balancing  
+. Tools: Git, Docker(basic), CI/CD (GitHub Actions)  
 
 Projects  
-.
-.
-.
+.  
+.  
+.  
 
 Certification  
 . AWS Certified Solutions Architect - Associate (in Progress)
