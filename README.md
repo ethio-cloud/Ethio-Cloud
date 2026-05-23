@@ -9,7 +9,7 @@ Skills
 . Tools: Git, Docker(basic), CI/CD (GitHub Actions)  
 
 Projects  
-.  
+.  AWS Containerized Python Web Application
 .  
 .  
 
