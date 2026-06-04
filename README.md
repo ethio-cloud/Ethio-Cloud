@@ -9,8 +9,10 @@ Skills
 . Tools: Git, Docker(basic), CI/CD (GitHub Actions)  
 
 Projects  
-.  AWS Containerized Python Web Application
+.  AWS Containerized Python Web Application 
+
 .  Multi-Environment GitOps Pipeline with Terraform
+
 .  
 
 Certification  
