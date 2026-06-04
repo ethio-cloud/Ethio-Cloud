@@ -10,7 +10,7 @@ Skills
 
 Projects  
 .  AWS Containerized Python Web Application
-.  
+.  Multi-Environment GitOps Pipeline with Terraform
 .  
 
 Certification  
