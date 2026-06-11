@@ -13,6 +13,8 @@ Projects
 
 .  Multi-Environment GitOps Pipeline with Terraform
 
+.  Docker Compose Multi-Container Application on AWS
+
 .  
 
 Certification  
